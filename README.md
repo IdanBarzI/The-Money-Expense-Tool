@@ -8,7 +8,7 @@
 ## Introduction
 This project was made with the purpose to test my skills in `React.js` and `Node.js`.
 
-I had a great time building it and i hope you will have a greate time testing it 😄
+I had a great time building it and i hope you will have a great time testing it 😄
 
 ## General info
 This project was made by 3 main technologies:
