@@ -2,18 +2,14 @@
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Live demo](#live-demo)
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-#### Introduction
+## Introduction
+This project was made with the purpose to test my skills in `React.js` and `Node.js`.
 
-This project was made with the purpose to show some `Sass` features and `CSS3`.
-
-## Live demo
-
-[Click here](https://idanbarzi.github.io/Nexter-IdanBarzI/).
+I had a great time building it and i hope you will have a greate time testing it 😄
 
 ## General info
 This project is a copy of an exist real estate website.
