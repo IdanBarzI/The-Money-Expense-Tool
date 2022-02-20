@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 30%;
+  padding: 0 20%;
+  gap: var(--gap-s);
+}
+
+.formControl:nth-child(3) {
+  padding-top: var(--gap);
+}
+.actions {
+  color: var(--error-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

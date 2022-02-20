@@ -1,0 +1,51 @@
+:root {
+  --secondery-bg-color: #264eca;
+  --third-bg-color: teal;
+
+  --primary-color: #ffffff;
+  --secondery-color: #cccccc;
+  --orange-color: #ff8800;
+  --purple-color: #4f005f;
+  --error-color: rgb(233, 0, 0);
+
+  --oppesit-primary-color: #1b1b1b;
+  --oppesit-secondery-color: #212121;
+
+  --primary-bg-color: #b0b3b8;
+
+  --defult-text-size: 1rem;
+
+  --gap: 20px;
+  --gap-m: 15px;
+  --gap-s: 10px;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+
+  background-image: url(./assets/back-ground.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html {
+  font-family: "Segoe UI";
+  scroll-behavior: smooth;
+}
+
+.centered {
+  margin: 3rem auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.money {
+  color: green;
+  font-weight: bold;
+}

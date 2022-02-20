@@ -1,0 +1,30 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 30%;
+  padding: 0 20%;
+  gap: var(--gap-s);
+}
+
+.actions {
+  padding-top: 20px;
+  color: var(--error-color);
+  display: flex;
+  gap: var(--gap-s);
+  justify-content: center;
+  align-items: center;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  background: transparent;
+  bottom: 0;
+  color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: auto;
+}
