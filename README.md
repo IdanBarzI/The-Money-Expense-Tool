@@ -5,6 +5,10 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 
+
+https://user-images.githubusercontent.com/88895210/173224961-fb090d8c-94ea-4c42-8866-4e10a8d91090.mp4
+
+
 ## Introduction
 This project was made with the purpose to test my skills in `React.js` and `Node.js`.
 
